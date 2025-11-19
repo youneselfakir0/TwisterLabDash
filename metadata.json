@@ -1,0 +1,5 @@
+{
+  "name": "TwisterLab Orchestrator",
+  "description": "A production-ready dashboard for the TwisterLab v1.0.0 multi-agent AI system, featuring real-time infrastructure monitoring, agent management, and a Gemini-powered command interface.",
+  "requestFramePermissions": []
+}
